@@ -171,4 +171,6 @@ void destroyAllArrays(float *scanline, float **realRFData, float **imagRFData, f
     delete[] scanline;
     delete[] scanlinePosition;
     delete[] elementPosition;
+    delete[] realRFData;
+    delete[] imagRFData;
 }
