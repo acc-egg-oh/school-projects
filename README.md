@@ -1,2 +1,5 @@
-This repository will have most of the projects that I do due to my university courses and will most likely all be in C++.
-It contains all of the files. Files associated with one another will be in their seperate sub-branch.
+Here, all the programs are single filed ones that were created in part for some school assignment.
+The description of the programs are all in the comments of the code.
+
+Index:
+1. diagnosticTestAnalysis.cpp
